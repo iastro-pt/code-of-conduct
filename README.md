@@ -2,7 +2,7 @@ The [iastro-pt](https://github.com/iastro-pt) organization is a community organi
 We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in this community are expected to show respect and courtesy to others.  
 To make clear what is expected, everyone actively participating in the [iastro-pt](https://github.com/iastro-pt) organization is required to conform to the following Code of Conduct. This code of conduct applies within the GitHub organization including, but not limited to, all the repositories owned by the organization and all activities happening online or offline that are linked to the organization.
 
-If you believe someone is violating the Code of Conduct we ask that you report it by emailing ######### or ####### at ###############. All reports will be kept confidential and all reports will be reviewed.
+If you believe someone is violating the Code of Conduct we ask that you report it by emailing `report-iastro-pt` at `protonmail.com`. All reports will be kept confidential and all reports will be reviewed.
 
 ## Code of Conduct
 
